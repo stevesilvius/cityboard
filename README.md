@@ -1,4 +1,4 @@
-City Board
+CityBoard
 =========
 
 Open source realtime city data dashboards designed for LCD screens to be put up around the city to keep the community aware of various metrics. Also, the dashboard should be available and customizable online.
