@@ -1,7 +1,7 @@
 City Board
 =========
 
-Realtime city data dashboards designed for LCD screens to be put up around the city to keep the community aware of various metrics. Also, the dashboard should be available and customizable online.
+Open source realtime city data dashboards designed for LCD screens to be put up around the city to keep the community aware of various metrics. Also, the dashboard should be available and customizable online.
 
 ![demo](http://cl.ly/image/3n38163r3u2n/Image%202014-06-01%20at%206.29.40%20PM.png)
 
